@@ -110,3 +110,15 @@ C) Only in childhood
 D) Only in certain bones  
 
 **Answer: A) True**
+
+
+
+
+
+
+Q2: Germ theory of disease (that microbes cause disease) was developed by:  
+A) Robert Koch  
+B) Louis Pasteur  
+C) Joseph Lister  
+D) Antonie van Leeuwenhoek  
+Answer: B) Louis Pasteur  
