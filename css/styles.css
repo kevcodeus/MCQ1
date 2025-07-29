@@ -6,12 +6,15 @@
     font-family: 'Arial', sans-serif;
 }
 
-body {
+/* body {
     background: linear-gradient(135deg, #6e8efb, #4471f7);
     min-height: 100vh;
     padding: 20px;
-}
+} */
 
+body {
+    background-color: #ffb7ce; /* Baby pink */
+}
 .container {
     max-width: 1200px;
     margin: 20px auto;
