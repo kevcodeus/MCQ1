@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shuffled MCQ Test</title>
+  <link rel="stylesheet" href="../css/styles.css">
+  <style>
+    .correct { color: green; }
+    .incorrect { color: red; }
+    .submit-btn, .prev-btn, .skip-btn, .nav-btn { margin: 5px; padding: 10px; border: none; border-radius: 5px; cursor: pointer; }
+    .submit-btn { background-color: #4CAF50; color: white; }
+    .prev-btn { background-color: #f44336; color: white; }
+    .skip-btn { background-color: #ff9800; color: white; }
+    .nav-btn { background-color: #008CBA; color: white; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Shuffled MCQ Quiz</h1>
+    <div id="questions-container"><div id="loading">Loading questions...</div></div>
+    <div>
+      <button id="prev-btn" class="prev-btn" disabled>Previous</button>
+      <button id="skip-btn" class="skip-btn">Skip</button>
+      <button id="submit-qn-btn" class="submit-btn">Submit</button>
+      <button id="next-btn" class="nav-btn">Next</button>
+      <button id="final-submit-btn" class="submit-btn" style="display: none;">Final Submit</button>
+    </div>
+    <div id="results-container" style="display: none;"></div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const container = document.getElementById('questions-container');
+      const results = document.getElementById('results-container');
+      const prevBtn = document.getElementById('prev-btn');
+      const nextBtn = document.getElementById('next-btn');
+      const skipBtn = document.getElementById('skip-btn');
+      const submitQnBtn = document.getElementById('submit-qn-btn');
+      const finalSubmitBtn = document.getElementById('final-submit-btn');
+
+      let questions = [];
+      let current = 0;
+      let answers = {};
+
+      fetch('test.md')
+        .then(res => res.text())
+        .then(parseQuestions)
+        .then(() => displayQuestion(current))
+        .catch(err => container.innerHTML = 'Error loading questions.');
+
+      function parseQuestions(text) {
+        const blocks = text.match(/\*\*Q\d+:.*?(?=\*\*Q\d+:|$)/gs) || [];
+        questions = blocks.map((block, idx) => {
+          const lines = block.split('\n');
+          const text = lines[0].replace(/\*\*Q\d+:\s*/, '').trim();
+          const answerMatch = block.match(/\*\*Answer:\s*([A-D])\)\s*(.+?)\s*\*\*/i) ||
+                               block.match(/\*\*Answer:\s*([A-B])\)\s*(True|False)\s*\*\*/i) ||
+                               block.match(/\*\*Answer:\s*([A-D])\)/i) ||
+                               block.match(/\*\*Answer:\s*([A-B])\)/i);
+
+          const correctLetter = answerMatch ? answerMatch[1] : null;
+          let correctText = answerMatch?.[2]?.trim() || null;
+
+          let optionLines = lines.filter(line => /^[A-D]\)/.test(line.trim()));
+          if (!optionLines.length && /A\)\s*True/.test(block)) optionLines = ['A) True', 'B) False'];
+
+          let options = optionLines.map(opt => ({
+            original: opt[0],
+            text: opt.substring(3).trim()
+          }));
+
+          if (!correctText && correctLetter) {
+            correctText = options.find(opt => opt.original === correctLetter)?.text;
+          }
+
+          options = options.sort(() => Math.random() - 0.5);
+          const letters = ['A', 'B', 'C', 'D'];
+          options.forEach((opt, i) => opt.display = letters[i]);
+
+          const correct = options.find(opt => opt.text === correctText)?.display || null;
+
+          return {
+            number: idx + 1,
+            text,
+            options: options.map(o => `${o.display}) ${o.text}`),
+            correctAnswer: correct,
+            answered: false,
+            skipped: false,
+            submitted: false
+          };
+        });
+
+        questions = questions.sort(() => Math.random() - 0.5);
+        questions.forEach((q, i) => q.number = i + 1);
+      }
+
+      function displayQuestion(index) {
+        const q = questions[index];
+        let html = `<h2>Q${q.number}: ${q.text}</h2>`;
+        q.options.forEach(opt => {
+          const val = opt[0];
+          const label = opt.substring(3);
+          const checked = answers[q.number] === val ? 'checked' : '';
+          html += `<label><input type="radio" name="q${q.number}" value="${val}" ${checked}> ${val}) ${label}</label><br>`;
+        });
+        container.innerHTML = html;
+        document.querySelectorAll(`input[name="q${q.number}"]`).forEach(input => {
+          input.addEventListener('change', e => {
+            answers[q.number] = e.target.value;
+          });
+        });
+
+        prevBtn.disabled = index === 0;
+      }
+
+      prevBtn.onclick = () => { if (current > 0) displayQuestion(--current); };
+      nextBtn.onclick = () => { if (current < questions.length - 1) displayQuestion(++current); };
+
+      skipBtn.onclick = () => {
+        questions[current].skipped = true;
+        if (current < questions.length - 1) current++;
+        displayQuestion(current);
+      };
+
+      submitQnBtn.onclick = () => {
+        const q = questions[current];
+        if (!answers[q.number]) return alert('Select an answer first.');
+        q.answered = true;
+        q.submitted = true;
+        q.userAnswer = answers[q.number];
+        if (current < questions.length - 1) displayQuestion(++current);
+        if (questions.every(q => q.answered || q.skipped)) finalSubmitBtn.style.display = 'inline-block';
+      };
+
+      finalSubmitBtn.onclick = () => {
+        let score = 0;
+        let total = questions.length;
+        let output = '<h2>Results:</h2>';
+
+        questions.forEach(q => {
+          const ua = answers[q.number];
+          const correct = ua === q.correctAnswer;
+          if (correct) score++;
+          output += `<p><strong>Q${q.number}:</strong> ${q.text}<br>
+                     Your Answer: <span class="${correct ? 'correct' : 'incorrect'}">${ua || 'N/A'}</span><br>
+                     Correct Answer: <strong>${q.correctAnswer}</strong></p>`;
+        });
+
+        output += `<h3>Score: ${score}/${total} (${((score / total) * 100).toFixed(2)}%)</h3>`;
+        container.style.display = 'none';
+        results.style.display = 'block';
+        results.innerHTML = output;
+      };
+    });
+  </script>
+</body>
+</html>

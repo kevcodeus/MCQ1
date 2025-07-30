@@ -1,4 +1,3 @@
-
 **Q1: Which of the following statements is false?**  
 A) Cardiomyocytes have abundant mitochondria  
 B) Cardiomyocytes do not have mitochondria  
@@ -110,15 +109,3 @@ C) Only in childhood
 D) Only in certain bones  
 
 **Answer: A) True**
-
-
-
-
-
-
-Q2: Germ theory of disease (that microbes cause disease) was developed by:  
-A) Robert Koch  
-B) Louis Pasteur  
-C) Joseph Lister  
-D) Antonie van Leeuwenhoek  
-Answer: B) Louis Pasteur  

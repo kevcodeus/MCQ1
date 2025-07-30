@@ -6,15 +6,15 @@
     font-family: 'Arial', sans-serif;
 }
 
-body {
+/* body {
     background: linear-gradient(135deg, #6e8efb, #4471f7);
     min-height: 100vh;
     padding: 20px;
-}
-/* 
+} */
+
 body {
     background-color: #ffb7ce; /* Baby pink */
-} */
+}
 .container {
     max-width: 1200px;
     margin: 20px auto;
@@ -158,7 +158,7 @@ body {
 #progress-text {
     text-align: right;
     font-size: 14px;
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(242, 2, 2, 0.8);
 }
 
 .question {
@@ -216,7 +216,7 @@ body {
 
 .nav-btn, .submit-btn {
     background: rgba(255, 255, 255, 0.2);
-    color: white;
+    color: rgb(23, 20, 20);
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
