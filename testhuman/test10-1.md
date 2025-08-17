@@ -390,3 +390,619 @@ B) False
 A) True  
 B) False
 **Answer: B) False**
+
+
+
+**Q61: Median sacral artery passes in an inferior direction, first over the anterior surface of the lower lumbar vertebrae and then over the anterior surface of the sacrum and coccyx.**
+A) True  
+B) False  
+**Answer: A) True**
+
+**Q62: The inferior vena cava ascends on the left side of the vertebral bodies and to the left of the abdominal aorta.**
+A) True  
+B) False  
+**Answer: B) False**
+
+**Q63: The larynx is located between the __________ and the trachea.**
+A) pharynx  
+B) esophagus  
+C) bronchi  
+D) epiglottis  
+**Answer: A) pharynx**
+
+**Q64: The __________ cartilage is the largest cartilage in the larynx.**
+A) thyroid  
+B) cricoid  
+C) arytenoid  
+D) epiglottic  
+**Answer: A) thyroid**
+
+**Q65: The right lung is divided into __________ lobes, while the left lung is divided into __________ lobes.**
+A) 2, 3  
+B) 3, 2  
+C) 2, 2  
+D) 3, 3  
+**Answer: B) 3, 2**
+
+**Q66: The __________ pleura is the layer that directly covers the surface of the lungs.**
+A) Parietal  
+B) Visceral  
+C) Mediastinal  
+D) Cervical  
+**Answer: B) Visceral**
+
+**Q67: The main artery supplying blood to the pelvic region is the __________ artery.**
+A) external iliac  
+B) internal iliac  
+C) femoral  
+D) obturator  
+**Answer: B) internal iliac**
+
+**Q68: The chordae tendineae**
+A) prevent the atrioventricular valve cusps from prolapsing into the atria during ventricular systole  
+B) connect the atria to the ventricles  
+C) regulate blood flow in the coronary arteries  
+D) are part of the conduction system  
+**Answer: A) prevent the atrioventricular valve cusps from prolapsing into the atria during ventricular systole**
+
+**Q69: The right ventricle of the heart acts as a pump for the:**
+A) systemic circulation  
+B) pulmonary circulation  
+C) coronary circulation  
+D) lymphatic circulation  
+**Answer: B) pulmonary circulation**
+
+**Q70: An auricle is:**
+A) The extension of atrial wall  
+B) A valve in the heart  
+C) A part of the conduction system  
+D) A coronary artery branch  
+**Answer: A) The extension of atrial wall**
+
+**Q71: The region outlined by pleural reflection on the medial surface of the lung is the ______________, where structures enter and leave.**
+A) Hilum  
+B) Fissure  
+C) Apex  
+D) Base  
+**Answer: A) Hilum**
+
+**Q72: Pleura associated with the walls of a pleural cavity is ...........................**
+A) Parietal pleura  
+B) Visceral pleura  
+C) Mediastinal pleura  
+D) Cervical pleura  
+**Answer: A) Parietal pleura**
+
+**Q73: Pleura that reflects from the medial wall and onto the surface of the lung is ____________________, which adheres to and covers the lung.**
+A) Parietal pleura  
+B) Visceral pleura  
+C) Mediastinal pleura  
+D) Cervical pleura  
+**Answer: B) Visceral pleura**
+
+**Q74: A hand slipped behind the heart at its apex can be extended upwards until stopped by a line of pericardial reflection that forms the:**
+A) Oblique pericardial sinus  
+B) Transverse pericardial sinus  
+C) Coronary sinus  
+D) Pulmonary recess  
+**Answer: A) Oblique pericardial sinus**
+
+**Q75: An elderly lady suffers a coronary occlusion and subsequently it is noted that there is a complete heart block (that is, the right and left bundles of the conduction system have been damaged). The artery most likely involved is the:**
+A) anterior interventricular (Left anterior descending)  
+B) right coronary  
+C) circumflex  
+D) posterior interventricular  
+**Answer: A) anterior interventricular (Left anterior descending)**
+
+**Q76: During fetal life and sometimes persisting into the adult there is an opening between the right and left atria; this opening is called the:**
+A) foramen ovale  
+B) ductus arteriosus  
+C) coronary sinus  
+D) fossa ovalis  
+**Answer: A) foramen ovale**
+
+**Q77: Which one of the following structures is present in the superior mediastinum?**
+A) Arch of aorta  
+B) Heart  
+C) Lungs  
+D) Diaphragm  
+**Answer: A) Arch of aorta**
+
+**Q78: What structure forms the posterior border of the superior mediastinum?**
+A) Vertebral bodies T1-T4  
+B) Sternum  
+C) Trachea  
+D) Esophagus  
+**Answer: A) Vertebral bodies T1-T4**
+
+**Q79: The patient presents with a stab wound to the chest. A open thoracotomy is performed in which of the following spaces can the superior vena cava be located?**
+A) Superior mediastinum  
+B) Anterior mediastinum  
+C) Middle mediastinum  
+D) Posterior mediastinum  
+**Answer: A) Superior mediastinum**
+
+**Q80: While performing transesophageal echocardiography on a patient, the posterior wall of the esophagus, immediately behind the left atrium, was punctured from within. The patient subsequently developed an infection in the space around the esophagus at this point, namely the:**
+A) Posterior mediastinum  
+B) Anterior mediastinum  
+C) Middle mediastinum  
+D) Superior mediastinum  
+**Answer: A) Posterior mediastinum**
+
+**Q81: Most of the drainage of the thoracic body wall reaches the superior vena cava via the azygos vein. A notable exception is the left superior intercostal vein, which normally drains into the:**
+A) Left brachiocephalic vein  
+B) Right brachiocephalic vein  
+C) Superior vena cava  
+D) Azygos vein  
+**Answer: A) Left brachiocephalic vein**
+
+**Q82: An enlarging lymph node gradually constricts the flow of blood in the azygos venous arch. Which vessel would enlarge as a result of collateral drainage?**
+A) Internal thoracic vein  
+B) Superior vena cava  
+C) Inferior vena cava  
+D) Hemiazygos vein  
+**Answer: A) Internal thoracic vein**
+
+**Q83: Which of the following veins does not flow into the portal vein of the liver?**
+A) Renal  
+B) Superior mesenteric  
+C) Splenic  
+D) Inferior mesenteric  
+**Answer: A) Renal**
+
+**Q84: The superior rectal vein drains into the:**
+A) portal vein  
+B) inferior vena cava  
+C) internal iliac vein  
+D) external iliac vein  
+**Answer: A) portal vein**
+
+**Q85: The inferior mesenteric artery supplies abdominal organs that arise from which embryonic precursor?**
+A) Foregut  
+B) Midgut  
+C) Hindgut  
+D) All of the above  
+**Answer: C) Hindgut**
+
+**Q86: The lesser splanchnic nerve ends in the**
+A) aorticorenal ganglion  
+B) celiac ganglion  
+C) superior mesenteric ganglion  
+D) inferior mesenteric ganglion  
+**Answer: A) aorticorenal ganglion**
+
+**Q87: The least splanchnic nerve (lowest splanchnic nerve) ends in the**
+A) Renal plexus  
+B) Celiac plexus  
+C) Superior mesenteric plexus  
+D) Inferior mesenteric plexus  
+**Answer: A) Renal plexus**
+
+**Q88: The anterior mediastinum is**
+A) [Invalid – needs review]  
+B) [Invalid – needs review]  
+C) [Invalid – needs review]  
+D) [Invalid – needs review]  
+**Answer: [Invalid – needs review]**
+
+**Q89: Inferior mesenteric artery: Its branches include the right colic artery, several sigmoid arteries, and the superior rectal artery.**
+A) True  
+B) False  
+**Answer: A) True**
+
+**Q90: The second (retroscalene) part gives off a single branch called the costocervical trunk**
+A) True  
+B) False  
+**Answer: A) True**
+
+**Q91: The chordae tendineae are anchored by:**
+A) papillary muscles  
+B) trabeculae carneae  
+C) interventricular septum  
+D) moderator band  
+**Answer: A) papillary muscles**
+
+**Q92: Which structure is NOT found in the left ventricle?**
+A) tricuspid valve  
+B) mitral valve  
+C) aortic valve  
+D) papillary muscles  
+**Answer: A) tricuspid valve**
+
+**Q93: The crista terminalis helps locate all EXCEPT:**
+A) mitral valve  
+B) SA node  
+C) IVC opening  
+D) pectinate muscles  
+**Answer: A) mitral valve**
+
+**Q94: The right atrium receives blood from the SVC, IVC, and:**
+A) coronary sinus  
+B) pulmonary veins  
+C) azygos vein  
+D) brachiocephalic vein  
+**Answer: A) coronary sinus**
+
+**Q95: The thickest heart chamber for systemic circulation is the:**
+A) left ventricle  
+B) right ventricle  
+C) left atrium  
+D) right atrium  
+**Answer: A) left ventricle**
+
+**Q96: The valve preventing backflow from LV to LA is the:**
+A) mitral valve  
+B) tricuspid valve  
+C) aortic valve  
+D) pulmonary valve  
+**Answer: A) mitral valve**
+
+**Q97: The trachea bifurcates at vertebral level:**
+A) T4/T5  
+B) C6/C7  
+C) T1/T2  
+D) L1/L2  
+**Answer: A) T4/T5**
+
+**Q98: The trachea spans from:**
+A) C6 to T4  
+B) C1 to C6  
+C) T1 to T12  
+D) L1 to L5  
+**Answer: A) C6 to T4**
+
+**Q99: Tracheal rings function to:**
+A) prevent airway collapse  
+B) facilitate gas exchange  
+C) produce mucus  
+D) filter air  
+**Answer: A) prevent airway collapse**
+
+**Q100: Fetal structure allowing RA-to-LA blood flow:**
+A) foramen ovale  
+B) ductus arteriosus  
+C) ligamentum arteriosum  
+D) fossa ovalis  
+**Answer: A) foramen ovale**
+
+**Q101: Tricuspid valve cusps are named:**
+A) anterior, septal, posterior  
+B) left, right, anterior  
+C) superior, middle, inferior  
+D) medial, lateral, central  
+**Answer: A) anterior, septal, posterior**
+
+**Q102: Pulmonary valve cusps are:**
+A) left, right, anterior  
+B) anterior, posterior, septal  
+C) superior, middle, inferior  
+D) medial, lateral, central  
+**Answer: A) left, right, anterior**
+
+**Q103: The azygos vein drains:**
+A) thoracic wall  
+B) abdominal wall  
+C) upper limbs  
+D) head and neck  
+**Answer: A) thoracic wall**
+
+**Q104: The azygos vein originates from:**
+A) IVC  
+B) SVC  
+C) brachiocephalic vein  
+D) subclavian vein  
+**Answer: A) IVC**
+
+**Q105: The azygos vein ascends on the:**
+A) right side  
+B) left side  
+C) anterior side  
+D) posterior side  
+**Answer: A) right side**
+
+**Q106: Superior mesenteric artery supplies:**
+A) midgut  
+B) foregut  
+C) hindgut  
+D) all of the above  
+**Answer: A) midgut**
+
+**Q107: Inferior mesenteric artery supplies:**
+A) descending colon  
+B) ascending colon  
+C) small intestine  
+D) stomach  
+**Answer: A) descending colon**
+
+**Q108: NOT a branch of inferior mesenteric artery:**
+A) middle colic artery  
+B) left colic artery  
+C) sigmoid arteries  
+D) superior rectal artery  
+**Answer: A) middle colic artery**
+
+**Q109: Structure closest to pericardial sac posteriorly:**
+A) esophagus  
+B) trachea  
+C) aorta  
+D) pulmonary artery  
+**Answer: A) esophagus**
+
+**Q110: Incorrect thymus statement:**
+A) bilobed symmetry  
+B) largest in childhood  
+C) part of endocrine system  
+D) located in anterior mediastinum  
+**Answer: A) bilobed symmetry**
+
+**Q111: Mitral valve murmur is best heard at:**
+A) 5th ICS, left MCL  
+B) 2nd ICS, right sternal border  
+C) 2nd ICS, left sternal border  
+D) 4th ICS, right sternal border  
+**Answer: A) 5th ICS, left MCL**
+
+**Q112: Left subclavian artery originates from brachiocephalic trunk.**
+A) True  
+B) False  
+**Answer: B) False**
+
+**Q113: Subclavian → axillary artery transition occurs at:**
+A) lateral 1st rib  
+B) medial clavicle  
+C) sternoclavicular joint  
+D) acromion process  
+**Answer: A) lateral 1st rib**
+
+**Q114: Thyrocervical trunk is a branch of:**
+A) subclavian artery  
+B) common carotid artery  
+C) brachiocephalic trunk  
+D) axillary artery  
+**Answer: A) subclavian artery**
+
+**Q115: Cephalic vein is medial in forearm.**
+A) True  
+B) False  
+**Answer: B) False**
+
+**Q116: Superior gluteal artery supplies:**
+A) gluteal muscles  
+B) pelvic organs  
+C) thigh muscles  
+D) abdominal wall  
+**Answer: A) gluteal muscles**
+
+**Q117: Inferior gluteal artery supplies pelvic organs.**
+A) True  
+B) False  
+**Answer: B) False**
+
+**Q118: Median sacral artery runs over:**
+A) sacrum/coccyx  
+B) lumbar vertebrae  
+C) iliac bones  
+D) pubic symphysis  
+**Answer: A) sacrum/coccyx**
+
+**Q119: IVC ascends left of aorta.**
+A) True  
+B) False  
+**Answer: B) False**
+
+**Q120: Larynx is between __________ and trachea.**
+A) pharynx  
+B) esophagus  
+C) bronchi  
+D) epiglottis  
+**Answer: A) pharynx**
+
+**Q121: Largest laryngeal cartilage:**
+A) thyroid  
+B) cricoid  
+C) arytenoid  
+D) epiglottic  
+**Answer: A) thyroid**
+
+**Q122: Right lung lobes vs. left:**
+A) 3, 2  
+B) 2, 3  
+C) 2, 2  
+D) 3, 3  
+**Answer: A) 3, 2**
+
+**Q123: Lung surface covering:**
+A) visceral pleura  
+B) parietal pleura  
+C) mediastinal pleura  
+D) cervical pleura  
+**Answer: A) visceral pleura**
+
+**Q124: Main pelvic artery:**
+A) internal iliac  
+B) external iliac  
+C) femoral  
+D) obturator  
+**Answer: A) internal iliac**
+
+**Q125: Chordae tendineae prevent:**
+A) valve prolapse  
+B) backflow  
+C) arrhythmias  
+D) ischemia  
+**Answer: A) valve prolapse**
+
+**Q126: Right ventricle pumps to:**
+A) pulmonary circuit  
+B) systemic circuit  
+C) coronary circuit  
+D) lymphatic circuit  
+**Answer: A) pulmonary circuit**
+
+**Q127: Auricle is a(n):**
+A) atrial extension  
+B) valve structure  
+C) conduction pathway  
+D) coronary feature  
+**Answer: A) atrial extension**
+
+**Q128: Lung hilum is the:**
+A) entry/exit site  
+B) apex region  
+C) fissure location  
+D) base area  
+**Answer: A) entry/exit site**
+
+**Q129: Parietal pleura lines:**
+A) thoracic wall  
+B) lung surface  
+C) mediastinum  
+D) diaphragm  
+**Answer: A) thoracic wall**
+
+**Q130: Visceral pleura covers:**
+A) lungs  
+B) heart  
+C) diaphragm  
+D) mediastinum  
+**Answer: A) lungs**
+
+**Q131: Oblique pericardial sinus is:**
+A) posterior heart recess  
+B) anterior heart space  
+C) coronary groove  
+D) atrial pouch  
+**Answer: A) posterior heart recess**
+
+**Q132: Coronary occlusion causing heart block likely affects:**
+A) LAD artery  
+B) RCA  
+C) circumflex  
+D) PDA  
+**Answer: A) LAD artery**
+
+**Q133: Fetal interatrial opening:**
+A) foramen ovale  
+B) ductus arteriosus  
+C) coronary sinus  
+D) fossa ovalis  
+**Answer: A) foramen ovale**
+
+**Q134: Superior mediastinum contains:**
+A) aortic arch  
+B) heart  
+C) lungs  
+D) diaphragm  
+**Answer: A) aortic arch**
+
+**Q135: Posterior border of superior mediastinum:**
+A) T1-T4 vertebrae  
+B) sternum  
+C) trachea  
+D) esophagus  
+**Answer: A) T1-T4 vertebrae**
+
+**Q136: SVC location in thoracotomy:**
+A) superior mediastinum  
+B) anterior mediastinum  
+C) middle mediastinum  
+D) posterior mediastinum  
+**Answer: A) superior mediastinum**
+
+**Q137: Esophageal puncture risks infection in:**
+A) posterior mediastinum  
+B) anterior mediastinum  
+C) middle mediastinum  
+D) superior mediastinum  
+**Answer: A) posterior mediastinum**
+
+**Q138: Left superior intercostal vein drains to:**
+A) brachiocephalic vein  
+B) azygos vein  
+C) SVC  
+D) hemiazygos vein  
+**Answer: A) brachiocephalic vein**
+
+**Q139: Azygos obstruction collateral:**
+A) internal thoracic vein  
+B) SVC  
+C) IVC  
+D) hemiazygos vein  
+**Answer: A) internal thoracic vein**
+
+**Q140: NOT a portal vein tributary:**
+A) renal vein  
+B) splenic vein  
+C) superior mesenteric vein  
+D) inferior mesenteric vein  
+**Answer: A) renal vein**
+
+**Q141: Superior rectal vein drains to:**
+A) portal system  
+B) IVC  
+C) internal iliac vein  
+D) external iliac vein  
+**Answer: A) portal system**
+
+**Q142: Inferior mesenteric artery embryonic origin:**
+A) hindgut  
+B) midgut  
+C) foregut  
+D) allantois  
+**Answer: A) hindgut**
+
+**Q143: Lesser splanchnic nerve ends in:**
+A) aorticorenal ganglion  
+B) celiac ganglion  
+C) superior mesenteric ganglion  
+D) inferior mesenteric ganglion  
+**Answer: A) aorticorenal ganglion**
+
+**Q144: Least splanchnic nerve ends in:**
+A) renal plexus  
+B) celiac plexus  
+C) superior mesenteric plexus  
+D) inferior mesenteric plexus  
+**Answer: A) renal plexus**
+
+**Q145: Anterior mediastinum boundaries:**
+A) [Invalid – needs review]  
+B) [Invalid – needs review]  
+C) [Invalid – needs review]  
+D) [Invalid – needs review]  
+**Answer: [Invalid – needs review]**
+
+**Q146: Inferior mesenteric artery branches include:**
+A) sigmoid arteries  
+B) hepatic artery  
+C) gastroduodenal artery  
+D) splenic artery  
+**Answer: A) sigmoid arteries**
+
+**Q147: Costocervical trunk arises from:**
+A) subclavian artery  
+B) common carotid artery  
+C) brachiocephalic trunk  
+D) axillary artery  
+**Answer: A) subclavian artery**
+
+**Q148: The __________ separates the anterior and left pulmonary surfaces of the heart.**
+A) left coronary sulcus  
+B) right coronary sulcus  
+C) interventricular sulcus  
+D) atrioventricular groove  
+**Answer: A) left coronary sulcus**
+
+**Q149: The __________ is the space between the vocal cords.**
+A) rima glottidis  
+B) laryngeal vestibule  
+C) piriform fossa  
+D) vallecula  
+**Answer: A) rima glottidis**
+
+**Q150: The __________ covers the laryngeal inlet during swallowing.**
+A) epiglottis  
+B) thyroid cartilage  
+C) cricoid cartilage  
+D) arytenoid cartilage  
+**Answer: A) epiglottis**
