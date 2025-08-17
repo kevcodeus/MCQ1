@@ -199,25 +199,26 @@
         });
 
     function parseQuestions(markdownText) {
-        const questionBlocks = markdownText.match(/\*\*Q\d+:.*?(?=\*\*Q\d+:|## Question \d+|$)/gs) || [];
-        questions = questionBlocks.map((block, index) => {
-            const lines = block.split('\n');
-            const questionText = lines[0].replace(/\*\*Q\d+:\s*/, '').trim();
-            const options = lines.filter(line => /^[A-D]\)/.test(line)).map(option => option.trim());
-            const correctAnswerMatch = block.match(/Answer:\s*([A-D])\)/);
-            const correctAnswer = correctAnswerMatch ? correctAnswerMatch[1] : null;
+    const questionBlocks = markdownText.match(/Q\d+:.*?(?=Q\d+:|$)/gs) || [];
+    questions = questionBlocks.map((block, index) => {
+        const lines = block.trim().split('\n');
+        const questionText = lines[0].replace(/Q\d+:\s*/, '').trim();
+        const options = lines.filter(line => /^[A-D]\)/.test(line)).map(option => option.trim());
+        const correctAnswerMatch = block.match(/Answer:\s*([A-D])\)/);
+        const correctAnswer = correctAnswerMatch ? correctAnswerMatch[1] : null;
 
-            return {
-                number: index + 1,
-                text: questionText,
-                options: options,
-                correctAnswer: correctAnswer,
-                answered: false,
-                skipped: false,
-                submitted: false // Track if the question has been submitted
-            };
-        });
-    }
+        return {
+            number: index + 1,
+            text: questionText,
+            options: options,
+            correctAnswer: correctAnswer,
+            answered: false,
+            skipped: false,
+            submitted: false
+        };
+    });
+}
+
     
     function displayQuestion(index) {
         if (questions.length === 0) return;
